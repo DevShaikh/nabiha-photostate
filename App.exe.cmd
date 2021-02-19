@@ -1,0 +1,1 @@
+serve -l 3230 -s build

@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "className": "Class X",
+      "subjectName": "English",
+      "ownerName": "Hayat",
+      "pages": 150,
+      "pageSize": "A5",
+      "printSide": "Double",
+      "binding": "Yes",
+      "quantity": 1,
+      "rate": 1.5,
+      "bindingRate": 40,
+      "bill": 265,
+      "id": 1
+    },
+    {
+      "className": "Class IX",
+      "subjectName": "English",
+      "ownerName": "Faheem",
+      "pages": 150,
+      "pageSize": "A5",
+      "printSide": "Single",
+      "binding": "No",
+      "quantity": 1,
+      "rate": 1.5,
+      "bindingRate": 0,
+      "bill": 225,
+      "id": 2
+    }
+  ]
+}
